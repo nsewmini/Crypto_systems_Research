@@ -19,3 +19,26 @@ In our particular scenario, our team had first thought of combining AES and homo
 NEXT STEP:
 so we, as a team thought of changing the route of this research. so the question is, 
 what are the differences in SHE: somewhat homomorphic encryption and AES 256bit standard.
+
+After, we decide to do the deep comparison between these two .
+The comparison factors as follows.
+
+time complexity 
+	encrypt time 
+	decrypt time
+	execution time
+space complexity
+algorithms
+efficiency 
+choosing programming language
+making the environment for the integration
+usable tools 
+data input types
+benefits of these methods. 
+how strong the algorithms are to the attacks
+scalability - how the algorithm goes here specially the oprational scalability.
+using protocols
+different methods that implemented this algorithm
+error tollerence
+cost for the encryption
+
