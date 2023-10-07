@@ -29,18 +29,31 @@ o	decrypt time
 o	execution time
 
 	space complexity
+
 	algorithms
+
 	efficiency 
+
 	choosing programming language
+
 	making the environment for the integration
+
 	usable tools 
+
 	data input types
+
 	benefits of these methods. 
+
 	how strong the algorithms are to the attacks
+
 	scalability - how the algorithm goes here specially the oprational scalability.
+
 	using protocols
+
 	different methods that implemented this algorithm
+
 	error tollerence
+
 	cost for the encryption
 
 
