@@ -13,5 +13,9 @@ BASIC DESIGN PROCESS
 
 
 
-after some studying about both areas we have finally come to an conclution that merging both AES and homomorphic encryption is not better solution. so we, as a team thought of changing the route of this research. so the question is, 
-  what are the differences in SHE: somewhat homomorphic encryption and AES 256bit standard.
+after some studying about both areas we have finally come to an conclution that merging both AES and homomorphic encryption is not better solution. 
+In our particular scenario, our team had first thought of combining AES and homomorphic encryption but then changed the study focus. Here, the focus has shifted to examining the distinctions between Somewhat Homomorphic Encryption (SHE) and the AES 256-bit standard due to factors such as a clearer and more well-defined research direction, a practical assessment, a comparative analysis, the allocation of resources, particularly time, the meeting of research objectives, application specifics, and so on.
+
+NEXT STEP:
+so we, as a team thought of changing the route of this research. so the question is, 
+what are the differences in SHE: somewhat homomorphic encryption and AES 256bit standard.
